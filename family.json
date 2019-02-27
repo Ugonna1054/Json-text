@@ -1,0 +1,36 @@
+[
+
+{
+"name" : 'ugonna',
+ "age" : 21,
+ "club":'chelsea',
+ "favfood":'rice',
+ "favdrink":'pepsi'
+},
+
+{
+"name": 'Amarachi',
+ "age": 23,
+ "club":'Barcelona',
+ "favfood":'spaghetti',
+ "favdrink":'fanta'
+},
+
+{
+"name": 'Uche',
+ "age" : 17,
+ "club":'chelsea',
+ "favfood":'beans',
+ "favdrink":'coke'
+}, 
+
+{
+"name": 'chibuike',
+ "age" : 21,
+ "club":'chelsea',
+ "favfood":'fries',
+ "favdrink":'Limca'
+}
+
+
+]
